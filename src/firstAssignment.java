@@ -19,7 +19,7 @@ public class firstAssignment {
                 return arr[i];
             }
         }
-        return -1; // No peak found
+        return -1;
     }
 
     public static int[] reverseArray(int[] arr) {
