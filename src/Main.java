@@ -107,6 +107,7 @@ class ShapeFactory {
         }
         return shape;
     }
+
     private static Rectangle createRectangle(Scanner scanner) {
         System.out.print("Enter width and height of Rectangle: ");
         double width = scanner.nextDouble();
